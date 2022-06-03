@@ -1,7 +1,8 @@
 # stu_rabbitmq
 
+### 使用rebbitmq实现一个生产者消费者模型
 
-## 下载rabbitmq,这里使用docker
+### 下载rabbitmq,这里使用docker
     
 1. 拉取镜像
 > docker pull rabbitmq
